@@ -2,11 +2,12 @@
 
 If you find LaughTalk useful for your work please cite:
 ```
-@inproceeding{laughtalk,
-  author    = {Sung-Bin, Kim and Hyun, Lee and Hong, Da hye and Nam, Suekyeong and Ju, Janghoon and Oh, Tae-Hyun},
-  title     = {LaughTalk: Expressive 3D Talking Head Generation with Laughter},
-  booktitle   = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  year      = {2024},
+@inproceedings{sung2024laughtalk,
+  title={Laughtalk: Expressive 3d talking head generation with laughter},
+  author={Sung-Bin, Kim and Hyun, Lee and Hong, Da Hye and Nam, Suekyeong and Ju, Janghoon and Oh, Tae-Hyun},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={6404--6413},
+  year={2024}
 }
 ```
 
